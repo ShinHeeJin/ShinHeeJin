@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 I'm ShinHeeJin, Backend Developer
-- 🔭 I'm Currently Working at **Infomining** using **Python**
+- 🔭 I'm mainly developing using **Python, Flask, SqlAlchemy**
 - 🌱 I'm Currently Learning **Spring Boot, JPA**
 
 

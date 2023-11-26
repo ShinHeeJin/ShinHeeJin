@@ -4,7 +4,7 @@
 ### Hi there 👋
 I'm ShinHeeJin, Backend Developer
 - 🔭 I'm mainly developing using **Python, Flask, SqlAlchemy**
-- 🌱 I'm Currently Learning **Spring Boot, JPA**
+- 🌱 I'm Currently Learning **FastAPI, Spring Boot, JPA**
 
 
 ### Technical Skills

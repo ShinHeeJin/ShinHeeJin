@@ -3,7 +3,9 @@
 
 ### Hi there 👋
 I'm ShinHeeJin, Backend Developer
-- 🔭 I'm mainly developing using **Python, Flask, SqlAlchemy**
+
+- 🏢 I'm Currently Working at **Clobot Co., Ltd** using **Python, FastAPI, MQTT, Redis**
+- 💻 I'm mainly developing using **Python, Flask, SqlAlchemy MySQL**
 - 🌱 I'm Currently Learning **React, FastAPI, Spring Boot**
 
 

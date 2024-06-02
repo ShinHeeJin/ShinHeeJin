@@ -4,7 +4,7 @@
 ### Hi there 👋
 I'm ShinHeeJin, Backend Developer
 
-- 🏢 I'm Currently Working at **Clobot Co., Ltd** using **Python, FastAPI, MQTT, Redis**
+- 🏢 I'm Currently Working at **Clobot Co., Ltd** using **Python, AMQP, MQTT, Redis, FastAPI**
 - 💻 I'm mainly developing using **Python, Flask, SqlAlchemy MySQL**
 - 🌱 I'm Currently Learning **React, FastAPI, Spring Boot**
 

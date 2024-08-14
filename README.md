@@ -1,14 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinHeeJin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 
-### Hi there 👋
+## Hi there 👋
 I'm ShinHeeJin, Backend Developer
 
 🏢 I'm Currently Working at **Clobot Co., Ltd** using **Python**
 
 <br/>
 
-### Technical Skills
+## Technical Skills
 <p>
 <img src="https://img.shields.io/badge/python-306998?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"/>  
